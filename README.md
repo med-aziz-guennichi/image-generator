@@ -19,11 +19,11 @@ Before you begin, ensure you have met the following requirements:
 To install vulkan-graphics-renderer, follow these steps:
 
 Linux and macOS:
-`
-git clone https://github.com/your-username/vulkan-graphics-renderer.git
+```
+git clone https://github.com/med-aziz-guennichi/vulkan-graphics-renderer.git
 cd vulkan-graphics-renderer
 cargo build
-`
+```
 
 ## Using Vulkan Graphics Renderer
 
